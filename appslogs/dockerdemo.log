@@ -1,4 +1,0 @@
-2022-07-24 13:46:25,150 INFO c.m.w.d.d.DockerdemoApplication [main] Starting DockerdemoApplication v0.0.1-SNAPSHOT using Java 1.8.0_212 on e9b118b7758f with PID 1 (/app.jar started by spring in /)
-2022-07-24 13:46:25,176 INFO c.m.w.d.d.DockerdemoApplication [main] No active profile set, falling back to 1 default profile: "default"
-2022-07-24 13:46:28,036 INFO c.m.w.d.d.DockerdemoApplication [main] Started DockerdemoApplication in 3.995 seconds (JVM running for 8.087)
-2022-07-24 13:47:18,347 INFO c.m.w.d.d.DockerdemoApplication [http-nio-8080-exec-2] Home called
